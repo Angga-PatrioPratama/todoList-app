@@ -27,3 +27,8 @@ it may take a little long to run for first time , so wait till the browser showu
 ```sh
 npm start = npm start(create-react-app default) + json-server --watch db.json
 ```
+
+# for more app and source code
+https://github.com/Angga-PatrioPratama
+
+Happy Hacking :)
