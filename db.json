@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "todo": "test todo",
+      "label": "uncategorized",
+      "id": "618e39ca",
+      "date": "8/15/2022, 1:00:00 AM",
+      "isDone": false
+    },
+    {
+      "todo": "angga",
+      "label": "uncategorized",
+      "id": "f5cce5aa",
+      "date": "10/19/2022, 7:35:24 AM",
+      "isDone": false
+    },
+    {
+      "todo": "makan",
+      "label": "uncategorized",
+      "id": "8103bc6d",
+      "date": "10/19/2022, 7:35:44 AM",
+      "isDone": false
+    },
+    {
+      "todo": "woles",
+      "label": "haha",
+      "id": "5140cbd3",
+      "date": "10/19/2022, 7:35:57 AM",
+      "isDone": false
+    }
+  ],
+  "labels": [
+    {
+      "label": "uncategorized",
+      "count": 3,
+      "id": "17daee68"
+    },
+    {
+      "label": "haha",
+      "count": 1,
+      "id": "d43221cd"
+    }
+  ]
+}
